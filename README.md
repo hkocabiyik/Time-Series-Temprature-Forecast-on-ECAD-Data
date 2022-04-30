@@ -1,6 +1,7 @@
 # Time-Series-Temprature-Forecast-on-ECAD-Data
 A short-term temperature forecast models on ECAD Temprature Data (by Time Series Forecasting models by AR, ARIMA)
-![image](https://user-images.githubusercontent.com/98191387/166106778-3e8f59f3-799b-4c41-a8d1-eac6946606fe.png)
+![image](https://user-images.githubusercontent.com/98191387/166106877-aa27e490-c68e-4be2-a0e2-f1752519135c.png)
+
 
 #### Tasks:
 
